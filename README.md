@@ -1,8 +1,9 @@
-# 👨‍💻 Filipe Filgueira Marinho Da Silva
+# 🧑‍💻 Filipe Filgueira Marinho Da Silva
 
 <div align="center">
 
 ![Analista de Dados](https://img.shields.io/badge/Analista%20de%20Dados-Em%20busca%20de%20oportunidade-blue?style=for-the-badge)
+![Aberto para Trabalho](https://img.shields.io/badge/🟢%20Aberto%20para%20Trabalho-disponível-brightgreen?style=for-the-badge)
 
 </div>
 
@@ -32,23 +33,13 @@ Tenho experiência prática com ferramentas de análise, visualização e gestã
 
 ---
 
-## 📊 Competências
-
-- 📈 **Dashboards, KPIs e Relatórios Gerenciais**
-- 🗄️ **Banco de Dados & Consultas SQL**
-- 🤖 **Python para Análise de Dados**
-- 🏢 **SAP S/4HANA** — Experiência corporativa
-- 📋 **Excel Avançado** — Tabelas dinâmicas, fórmulas complexas
-
----
-
 ## 📈 Estatísticas
 
 <div align="center">
 
-![Filipe's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=FilipeFilg&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)
+![GitHub Streak](https://streak-stats.demolab.com?user=FilipeFilg&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)
 
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=FilipeFilg&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FilipeFilg&theme=github_dark)
 
 </div>
 
