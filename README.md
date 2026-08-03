@@ -9,7 +9,7 @@
 
 ---
 
-Olá! Sou **Filipe Filgueira Marinho Da Silva**, tenho 21 anos, atualmente morando em **Valparaíso de Goiás**. Atualmente curso **Engenharia de Software** (5º semestre) e estou em busca de oportunidades na área de **Análise de Dados** e áreas correlatas.
+Olá! Sou **Filipe Filgueira Marinho Da Silva**, tenho 21 anos, atualmente morando em **Valparaíso de Goiás**. Atualmente curso **Engenharia de Software** (4º semestre) e estou em busca de oportunidades na área de **Análise de Dados** e áreas correlatas.
 
 Tenho experiência prática com ferramentas de análise, visualização e gestão de dados, além de vivência corporativa com SAP S/4HANA.
 
