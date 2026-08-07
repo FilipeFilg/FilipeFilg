@@ -33,18 +33,6 @@ Tenho experiência prática com ferramentas de análise, visualização e gestã
 
 ---
 
-## 📈 Estatísticas
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=FilipeFilg&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)
-
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FilipeFilg&theme=github_dark)
-
-</div>
-
----
-
 <div align="center">
 
 💡 *Aberto a oportunidades em Análise de Dados, Business Intelligence e áreas correlatas!*
